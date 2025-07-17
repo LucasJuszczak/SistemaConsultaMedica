@@ -86,13 +86,13 @@ A aplicação front-end estará acessível em `http://localhost:3000`.
 ## 📸 Screenshots
 
 - Página inicial
-![Página inicial](image-3.png)
+![Página inicial](screenshots/image-3.png)
 
 - Listagem de pacientes
-![Listagem de pacientes](image-1.png)
+![Listagem de pacientes](screenshots/image-1.png)
 
 - Cadastro de médicos
-![Cadastro de médicos](image.png)
+![Cadastro de médicos](screenshots/image.png)
 
 - Agendamento de consultas
-![Agendamento de consultas](image-2.png)
+![Agendamento de consultas](screenshots/image-2.png)
